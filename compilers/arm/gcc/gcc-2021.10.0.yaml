@@ -13,8 +13,8 @@ info:
   summary: GCC compiler for ARM CPUs.
 
 contacts:
-  Garrett Serack: 
-    email: garretts@microsoft.com
+  Marc Goodner: 
+    email: mgoodner@microsoft.com
     role: publisher
 demands:
   windows:

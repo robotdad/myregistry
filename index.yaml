@@ -1,5 +1,5 @@
 # MANIFEST-INDEX
-items: [ compilers/arm/gcc/gcc-2021.10.0.yaml ]
+items: [ compilers/arm/gcc/gcc-2021.10.0.json ]
 indexes:
   IdentityKey/info.id:
     keys:
